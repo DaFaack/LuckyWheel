@@ -25,38 +25,38 @@ public class MainActivity extends AppCompatActivity {
         final LuckyWheelView luckyWheelView = (LuckyWheelView) findViewById(R.id.luckyWheel);
 
         LuckyItem luckyItem1 = new LuckyItem();
-        luckyItem1.text = "100";
+        luckyItem1.text = "1";
         luckyItem1.icon = R.drawable.test1;
         luckyItem1.color = 0xffFFF3E0;
         data.add(luckyItem1);
 
         LuckyItem luckyItem2 = new LuckyItem();
-        luckyItem2.text = "200";
+        luckyItem2.text = "2";
         luckyItem2.icon = R.drawable.test2;
         luckyItem2.color = 0xffFFE0B2;
         data.add(luckyItem2);
 
         LuckyItem luckyItem3 = new LuckyItem();
-        luckyItem3.text = "300";
+        luckyItem3.text = "3";
         luckyItem3.icon = R.drawable.test3;
         luckyItem3.color = 0xffFFCC80;
         data.add(luckyItem3);
 
         //////////////////
         LuckyItem luckyItem4 = new LuckyItem();
-        luckyItem4.text = "400";
+        luckyItem4.text = "4";
         luckyItem4.icon = R.drawable.test4;
         luckyItem4.color = 0xffFFF3E0;
         data.add(luckyItem4);
 
         LuckyItem luckyItem5 = new LuckyItem();
-        luckyItem5.text = "500";
+        luckyItem5.text = "5";
         luckyItem5.icon = R.drawable.test5;
         luckyItem5.color = 0xffFFE0B2;
         data.add(luckyItem5);
 
         LuckyItem luckyItem6 = new LuckyItem();
-        luckyItem6.text = "600";
+        luckyItem6.text = "6";
         luckyItem6.icon = R.drawable.test6;
         luckyItem6.color = 0xffFFCC80;
         data.add(luckyItem6);
