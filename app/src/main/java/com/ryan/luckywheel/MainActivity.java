@@ -112,6 +112,8 @@ public class MainActivity extends AppCompatActivity {
         luckyWheelView.setLuckyWheelCursorImage(R.drawable.ic_cursor);*/
 
 
+
+
         findViewById(R.id.play).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
